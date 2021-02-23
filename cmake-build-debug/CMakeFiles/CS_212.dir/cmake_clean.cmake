@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CS_212.dir/weekOne/age.c.obj"
+  "CMakeFiles/CS_212.dir/weekOne/intervalle.c.obj"
   "CS_212.exe"
   "CS_212.exe.manifest"
   "CS_212.pdb"

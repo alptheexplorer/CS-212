@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/alpoz/Desktop/CS-212/weekOne/age.c" "C:/Users/alpoz/Desktop/CS-212/cmake-build-debug/CMakeFiles/CS_212.dir/weekOne/age.c.obj"
+  "C:/Users/alpoz/Desktop/CS-212/weekOne/intervalle.c" "C:/Users/alpoz/Desktop/CS-212/cmake-build-debug/CMakeFiles/CS_212.dir/weekOne/intervalle.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

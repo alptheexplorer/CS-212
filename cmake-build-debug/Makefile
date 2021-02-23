@@ -142,32 +142,32 @@ CS_212/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CS_212.dir\build.make CMakeFiles/CS_212.dir/build
 .PHONY : CS_212/fast
 
-weekOne/age.obj: weekOne/age.c.obj
+weekOne/intervalle.obj: weekOne/intervalle.c.obj
 
-.PHONY : weekOne/age.obj
+.PHONY : weekOne/intervalle.obj
 
 # target to build an object file
-weekOne/age.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CS_212.dir\build.make CMakeFiles/CS_212.dir/weekOne/age.c.obj
-.PHONY : weekOne/age.c.obj
+weekOne/intervalle.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CS_212.dir\build.make CMakeFiles/CS_212.dir/weekOne/intervalle.c.obj
+.PHONY : weekOne/intervalle.c.obj
 
-weekOne/age.i: weekOne/age.c.i
+weekOne/intervalle.i: weekOne/intervalle.c.i
 
-.PHONY : weekOne/age.i
+.PHONY : weekOne/intervalle.i
 
 # target to preprocess a source file
-weekOne/age.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CS_212.dir\build.make CMakeFiles/CS_212.dir/weekOne/age.c.i
-.PHONY : weekOne/age.c.i
+weekOne/intervalle.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CS_212.dir\build.make CMakeFiles/CS_212.dir/weekOne/intervalle.c.i
+.PHONY : weekOne/intervalle.c.i
 
-weekOne/age.s: weekOne/age.c.s
+weekOne/intervalle.s: weekOne/intervalle.c.s
 
-.PHONY : weekOne/age.s
+.PHONY : weekOne/intervalle.s
 
 # target to generate assembly for a file
-weekOne/age.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CS_212.dir\build.make CMakeFiles/CS_212.dir/weekOne/age.c.s
-.PHONY : weekOne/age.c.s
+weekOne/intervalle.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CS_212.dir\build.make CMakeFiles/CS_212.dir/weekOne/intervalle.c.s
+.PHONY : weekOne/intervalle.c.s
 
 # Help Target
 help:
@@ -178,9 +178,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... CS_212
-	@echo ... weekOne/age.obj
-	@echo ... weekOne/age.i
-	@echo ... weekOne/age.s
+	@echo ... weekOne/intervalle.obj
+	@echo ... weekOne/intervalle.i
+	@echo ... weekOne/intervalle.s
 .PHONY : help
 
 

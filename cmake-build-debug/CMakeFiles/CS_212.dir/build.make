@@ -76,27 +76,27 @@ include CMakeFiles/CS_212.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CS_212.dir/flags.make
 
-CMakeFiles/CS_212.dir/weekOne/age.c.obj: CMakeFiles/CS_212.dir/flags.make
-CMakeFiles/CS_212.dir/weekOne/age.c.obj: ../weekOne/age.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\alpoz\Desktop\CS-212\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/CS_212.dir/weekOne/age.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CS_212.dir\weekOne\age.c.obj   -c C:\Users\alpoz\Desktop\CS-212\weekOne\age.c
+CMakeFiles/CS_212.dir/weekOne/intervalle.c.obj: CMakeFiles/CS_212.dir/flags.make
+CMakeFiles/CS_212.dir/weekOne/intervalle.c.obj: ../weekOne/intervalle.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\alpoz\Desktop\CS-212\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/CS_212.dir/weekOne/intervalle.c.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CS_212.dir\weekOne\intervalle.c.obj   -c C:\Users\alpoz\Desktop\CS-212\weekOne\intervalle.c
 
-CMakeFiles/CS_212.dir/weekOne/age.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/CS_212.dir/weekOne/age.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\alpoz\Desktop\CS-212\weekOne\age.c > CMakeFiles\CS_212.dir\weekOne\age.c.i
+CMakeFiles/CS_212.dir/weekOne/intervalle.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/CS_212.dir/weekOne/intervalle.c.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\alpoz\Desktop\CS-212\weekOne\intervalle.c > CMakeFiles\CS_212.dir\weekOne\intervalle.c.i
 
-CMakeFiles/CS_212.dir/weekOne/age.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/CS_212.dir/weekOne/age.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\alpoz\Desktop\CS-212\weekOne\age.c -o CMakeFiles\CS_212.dir\weekOne\age.c.s
+CMakeFiles/CS_212.dir/weekOne/intervalle.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/CS_212.dir/weekOne/intervalle.c.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\alpoz\Desktop\CS-212\weekOne\intervalle.c -o CMakeFiles\CS_212.dir\weekOne\intervalle.c.s
 
 # Object files for target CS_212
 CS_212_OBJECTS = \
-"CMakeFiles/CS_212.dir/weekOne/age.c.obj"
+"CMakeFiles/CS_212.dir/weekOne/intervalle.c.obj"
 
 # External object files for target CS_212
 CS_212_EXTERNAL_OBJECTS =
 
-CS_212.exe: CMakeFiles/CS_212.dir/weekOne/age.c.obj
+CS_212.exe: CMakeFiles/CS_212.dir/weekOne/intervalle.c.obj
 CS_212.exe: CMakeFiles/CS_212.dir/build.make
 CS_212.exe: CMakeFiles/CS_212.dir/linklibs.rsp
 CS_212.exe: CMakeFiles/CS_212.dir/objects1.rsp
