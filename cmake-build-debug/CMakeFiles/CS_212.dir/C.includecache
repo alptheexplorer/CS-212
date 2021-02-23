@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/alpoz/Desktop/CS-212/weekOne/age.c
+stdio.h
+C:/Users/alpoz/Desktop/CS-212/weekOne/stdio.h
+

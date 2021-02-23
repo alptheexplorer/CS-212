@@ -1,0 +1,3 @@
+C:/Users/alpoz/Desktop/CS-212/cmake-build-debug/CMakeFiles/CS_212.dir
+C:/Users/alpoz/Desktop/CS-212/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alpoz/Desktop/CS-212/cmake-build-debug/CMakeFiles/rebuild_cache.dir
